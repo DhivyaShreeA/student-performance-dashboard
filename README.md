@@ -1,5 +1,9 @@
 #  Student Performance Analytics Dashboard
 
+## Dashboard Preview
+
+![Dashboard](Student dashboard.png)
+
 ##  Project Overview
 This project analyzes student performance using Power BI. It provides insights into academic performance, attendance impact, and subject difficulty.
 
